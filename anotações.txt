@@ -1,0 +1,3 @@
+1- criar as tabelas no BD
+** fazer a conexao do banco com o php
+2- fazer um select da tabela viagens no site
